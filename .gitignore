@@ -137,7 +137,7 @@ celerybeat.pid
 **/ENV/
 env.bak/
 venv.bak/
-
+/GenAIEngineering-Cohort2.code-workspace
 # Spyder project settings
 .spyderproject
 .spyproject
