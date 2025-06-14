@@ -1,0 +1,5 @@
+Hello, this is my first file!
+Python makes file handling easy.
+This is the third line.
+This line was added later.
+You can append multiple lines!
