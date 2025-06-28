@@ -1,0 +1,8 @@
+customer_id,name,email,city,membership_level
+101,Alice Brown,alice@example.com,New York,Gold
+102,Bob Smith,bob@example.com,Los Angeles,Silver
+103,Charlie Davis,charlie@example.com,Chicago,Gold
+104,David Wilson,david@example.com,Houston,Bronze
+105,Emma Johnson,emma@example.com,Phoenix,Silver
+108,Frank Miller,frank@example.com,Philadelphia,Gold
+109,Grace Lee,grace@example.com,San Antonio,Bronze
